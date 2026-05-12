@@ -1,2 +1,2 @@
-# Extracao-de-Dados-SSPDS
-Um Bot para um projeto de big data da faculdade. Tem como objetivo entrar no site do SSPDS e baixar todos os relatórios de indicadores de segurança pública.
+# sspds extract data
+A bot for a college big data project. Its purpose is to access the SSPDS website and download all public safety indicator reports.
